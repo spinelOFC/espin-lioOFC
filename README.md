@@ -3,7 +3,7 @@
 <!-- Saudação -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=6699ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+arthur;eu+sou+um+car+tranquilo;Be+Welcome!+:%29"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=6699ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+arthur;eu+sou+um+cara+tranquilo;hahaha!+:%29"/>
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 <!-- CARD Atividade -->
 <div align="center" style="border: 1px solid #ccc; border-radius: 15px; padding: 20px; margin: 20px; box-shadow: 0 0 10px rgba(218, 9, 9, 0.1);">
   <h2 align="center"> Contribuições Recentes</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spinelOFC&theme=react-dark" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spinelOFC&theme=react-dark" width="100%"/> 
 </div>
 
 <!-- CARD Skills -->
